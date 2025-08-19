@@ -92,7 +92,7 @@ CRS EPSG:4326.
 
 ![](./illust/waders.png)
 
-#### `wate` --- Відерита вода
+#### `wate` --- Відкрита вода
 
 ![](./illust/water.png)
 
